@@ -12600,7 +12600,7 @@ fieldset:disabled .btn {
     display: inline-block; /* Ensures it takes up space */
     width: 75px; /* Adjust to match your image size */
     height: 75px; /* Adjust to match your image size */
-    background-image: url('/assets/images/motor.jfif'); /* Correct path */
+    background-image: url('../images/motor.jfif'); /* Correct path */
     background-size: contain; /* Ensures the entire image fits */
     background-repeat: no-repeat; /* Prevents tiling */
     background-position: center;
@@ -12847,7 +12847,7 @@ fieldset:disabled .btn {
     display: inline-block; /* Ensures it takes up space */
     width: 75px; /* Adjust to match your image size */
     height: 75px; /* Adjust to match your image size */
-    background-image: url('/assets/images/iot.png'); /* Correct path */
+    background-image: url('../images/iot.png'); /* Correct path */
     background-size: contain; /* Ensures the entire image fits */
     background-repeat: no-repeat; /* Prevents tiling */
     background-position: center;
@@ -12857,7 +12857,7 @@ fieldset:disabled .btn {
     display: inline-block; /* Ensures it takes up space */
     width: 75px; /* Adjust to match your image size */
     height: 75px; /* Adjust to match your image size */
-    background-image: url('/assets/images/data_analytics.png'); /* Correct path */
+    background-image: url('../images/data_analytics.png'); /* Correct path */
     background-size: contain; /* Ensures the entire image fits */
     background-repeat: no-repeat; /* Prevents tiling */
     background-position: center;
@@ -12867,7 +12867,7 @@ fieldset:disabled .btn {
     display: inline-block; /* Ensures it takes up space */
     width: 75px; /* Adjust to match your image size */
     height: 75px; /* Adjust to match your image size */
-    background-image: url('/assets/images/linux.png'); /* Correct path */
+    background-image: url('../images/linux.png'); /* Correct path */
     background-size: contain; /* Ensures the entire image fits */
     background-repeat: no-repeat; /* Prevents tiling */
     background-position: center;
