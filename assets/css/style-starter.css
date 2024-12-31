@@ -12600,7 +12600,7 @@ fieldset:disabled .btn {
     display: inline-block; /* Ensures it takes up space */
     width: 75px; /* Adjust to match your image size */
     height: 75px; /* Adjust to match your image size */
-    background-image: url('.../images/motor.jfif'); /* Correct path */
+    background-image: url('../images/motor.jfif'); /* Correct path */
     background-size: contain; /* Ensures the entire image fits */
     background-repeat: no-repeat; /* Prevents tiling */
     background-position: center;
